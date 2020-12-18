@@ -10,4 +10,5 @@ class SignUp{
 		this.PasswordTwo;
 		this.userName=userName;
 	}
+	
 }
