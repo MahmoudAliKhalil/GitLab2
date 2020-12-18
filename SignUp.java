@@ -10,4 +10,7 @@ class SignUp{
 		this.PasswordTwo;
 		this.userName=userName;
 	}
+	public boolean chkPassword(String passwordOne,String PasswordTwo){
+		
+	}
 }
